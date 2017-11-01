@@ -1,2 +1,4 @@
 # plupload-
-修改了plupload开源项目的部分样式方面的代码
+
+#线上测试地址upload.laravue.cn
+[This link](http://upload.laravue.cn/) 
